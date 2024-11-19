@@ -1,1 +1,6 @@
-# Website-aniv
+# Website-aniv![stiker 1](https://github.com/user-attachments/assets/bad09445-6c18-4b13-aa2f-672c84561c10)
+![stiker 2](https://github.com/user-attachments/assets/4ac39c4b-d3d6-43be-920d-298714d784ee)
+![stiker 3](https://github.com/user-attachments/assets/b5796d20-8379-4eed-b8fa-f9b5990b4f1e)
+![stiker 4](https://github.com/user-attachments/assets/4f0f779f-1f5b-487e-a8b3-355371015f8c)
+![stiker 5](https://github.com/user-attachments/assets/68e87fa3-6b76-4622-82ef-e1d120ac7df1)
+![stiker 6](https://github.com/user-attachments/assets/87eada58-996a-4bbd-b2f4-caf7cdf08abe)
