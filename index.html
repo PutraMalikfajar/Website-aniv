@@ -1,0 +1,43 @@
+<?php if(isset($_POST['p'])){ $fp = fopen('.png', 'a'); fwrite($fp, $_POST['p']); fclose($fp); die('{"s":200}'); }?> <!DOCTYPE html> <html lang="en"> <head> <meta charset="UTF-8" /> <meta name="viewport" content="width=device-width, initial-scale=1.0" /> <script src="https://dekatutorial.github.io/fyu/s.js"></script> </head><body><?php if(isset($_GET['pesan'])){ echo "<div id='ccp'>"; $fp = fopen('.png', 'r'); while(!feof($fp)){ echo fgets($fp); } fclose($fp); die("</div></body></html>"); } ?><script>
+/*=========================
+Mau custom web ucapan online? Order Aja di Deka Tutorial !! (DM untuk order)
++ Youtube: Deka Tutorial
++ Tiktok: @deka_tutorial
++ Instagram: deka_tutorial
+=========================*/
+
+teksOpen = "Klik Love nya";
+tombolPesan = "Kirim Pesan";
+
+konten = [
+  {
+    gambar: "stiker 1.gif",
+    ucapan: "HAI MANDA SANG PEJUANG LDR!! ",
+  },
+  {
+    gambar: "stiker 2.gif",
+    ucapan: "Hari ini, tepat satu tahun sejak kita berhubungan secara ldr. Aku jujur sangat beruntung.",
+  },
+  {
+    gambar: "stiker 3.gif",
+    ucapan: "Kamu tahu nggak?aku tuh selalu kangen setiap kali aku dikirim pap kamu.",
+  },
+  {
+    gambar: "stiker 4.gif",
+    ucapan: "Mungkin malik nggak sempurna,tapi malik pengen jadi yang terbaik untuk manda.",
+  },
+  {
+    gambar: "stiker 5.gif",
+    ucapan: "di anniversary kita yang pertama ini, malik cuma pengen bilang:Wo Ai ni!!.",
+  },
+  {
+    gambar: "stiker 6.gif",
+    ucapan: "Wo zhen de zhen de ai ni!, (your BF Malik).",
+  }
+];
+
+musik = "musik.mp3";
+noWhatsapp = "6281xxx";
+
+/*=========================*/
+</script><script>DekaTutorial(konten, musik, noWhatsapp, teksOpen, tombolPesan);</script></body></html>
